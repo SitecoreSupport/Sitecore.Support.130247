@@ -1,2 +1,3 @@
 # Sitecore.Support.130247
-The 'DataProviderHashKeys' inefficiently queries the 'Reporting' database.
+
+See [master branch](https://github.com/sitecoresupport/Sitecore.Support.130247) for details.
