@@ -8,7 +8,7 @@ This repository contains Sitecore Patch #130247, which overrides SQL commands to
 
 ## Deployment
 
-To apply the patch, perform the following steps on both CM and CD servers:
+To apply the patch, perform the following steps on CM servers:
 
 1. Place the `Sitecore.Support.130247.dll` assembly into the `\bin` directory.
 2. Place the `Sitecore.Support.130247.config` file into the `\App_Config\Include\zzz` directory.
